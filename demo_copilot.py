@@ -12,7 +12,7 @@ fig = plt.figure()
 ax = fig.add_subplot(111, projection='3d')
 
 # create random data confined within a sphere of radius 10
-x = np.random.normal(0, 10, 2000)
+x = np.random.normal(0, 10, 1000)
 y = np.random.normal(0, 10, 2000)
 z = np.random.normal(0, 10, 2000)
 
