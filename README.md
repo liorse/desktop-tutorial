@@ -8,12 +8,3 @@ Lior
 
 asdfjhadsfh
 sdfksdfjf
-
-lior
-even more important changes
-<<<<<<< HEAD
-jhl
-
-forked
-=======
->>>>>>> parent of f26ea2d (test)
